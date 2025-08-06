@@ -28,9 +28,6 @@ public class DemoSix {
 		driver.findElement(By.xpath("//input[@placeholder='From']")).sendKeys(Keys.ARROW_DOWN);
 		driver.findElement(By.xpath("//input[@placeholder='From']")).sendKeys(Keys.ENTER);
 		
-		
-		
-
 	}
 
 }
